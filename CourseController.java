@@ -19,6 +19,10 @@ public class CourseController {
 	@Autowired
 	CourseService courseService;
 	
+	@xxxxx
+	@yyyyy
+	@zzzzz
+	
 	@PostMapping("/course")
 	public Course addCourse(@RequestBody Course course)
 	{
