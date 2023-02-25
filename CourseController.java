@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.pune.qspider.entity.Course;
 import com.pune.qspider.service.CourseService;
-
+@cancel service
 @RestController
 public class CourseController {
 	
